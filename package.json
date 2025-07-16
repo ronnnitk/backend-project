@@ -1,0 +1,17 @@
+{
+  "name": "community_backend",
+  "version": "1.0.0",
+  "description": "A backend for my community project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "javascript",
+    "community",
+    "project"
+  ],
+  "author": "Ronit Kataria",
+  "license": "ISC"
+}
